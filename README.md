@@ -8,10 +8,15 @@ Are you preparing to take the SY0-701 exam for CompTIA certification? Looking fo
 As of [current date], the SY0-701 exam for CompTIA Security+ certification has been updated to reflect the latest trends and developments in cybersecurity. The updated exam covers a wide range of topics, including:
 
 •	Threats, attacks, and vulnerabilities
+
 •	Security operations and monitoring
+
 •	Architecture and design
+
 •	Identity and access management
+
 •	Risk management
+
 •	Cryptography
 
 Be sure to review the latest exam objectives provided by CompTIA to ensure you're prepared for the updated content.
